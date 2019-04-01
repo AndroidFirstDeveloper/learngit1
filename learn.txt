@@ -1,3 +1,4 @@
-create git repository from local.
+﻿create git repository from local.
 then I will  push it to remote repository,so we can make a connect with remote.
-��������git�ֿ⣬Ȼ���ٴ���һ���ļ������ѱ��زֿ��Զ�ֿ̲⽨����ϵ�����ѱ��زֿ����͵�Զ�̡�
+创建本地git仓库，然后再创建一个文件，最后把本地仓库和远程仓库建立联系，并把本地仓库推送到远程。
+将汉字推送到git，好像会引起乱码.
