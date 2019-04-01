@@ -4,3 +4,4 @@ then I will  push it to remote repository,so we can make a connect with remote.
 将汉字推送到git，好像会引起乱码.使用Notepad++软件编辑文本文件，并设置UTF-8 BOM编码格式则可以解决乱码的问题,get。
 学习了创建分支、切换分支、创建并切换分支、合并分支、删除分支.
 切换分支添加一些内容,gg。
+Create a new branch is quick AND simple.
